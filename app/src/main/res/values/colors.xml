@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#05080b</color>
+    <color name="colorPrimaryDark">#01061a</color>
+    <color name="colorAccent">#b6cadb</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#cdccc9</color>
+    <color name="colorbuttonAccent">#f6b345</color>
+    <color name="colorColorText">#00213e</color>
+    <color name="cardview_dark_background">#01061a</color>
+    <color name="cardview_light_background">#a7a4a1</color>
+    <color name="save_color">#1c5f00</color>
+    <color name="save_color_text">#43a047</color>
+    <color name="edit_color_text">#bcf1dc</color>
+    <color name="greyed_green">#a7a4a1</color>
+</resources>

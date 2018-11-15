@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">CryptoCarnet</string>
+    <string name="price_usd">00.00</string>
+    <string name="TwentyFourHour">24hr:</string>
+    <string name="TwentyFourHourPercentage">0.00%</string>
+    <string name="addresss_added_msg">Adress added</string>
+    <string name="create_btn_msg">Accept</string>
+    <string name="cancel_btn">Cancel</string>
+    <string name="manual_pop_title">! Action not recommended</string>
+
+
+    <string-array name="languages">
+        <item>English</item>
+        <item>Francais</item>
+    </string-array>
+    <string-array name="languages_values">
+        <item>-1</item>
+        <item>0</item>
+    </string-array>
+
+    <string-array name="currency_list">
+        <item>BTC</item>
+        <item>US</item>
+        <item>EUR</item>
+        <item>AUD</item>
+    </string-array>
+    <string-array name="currency_list_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+
+
+
+
+</resources>

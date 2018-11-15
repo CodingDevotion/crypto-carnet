@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="@dimen/btn_height"
+    android:height="@dimen/btn_height"
+    android:viewportWidth="115"
+    android:viewportHeight="115">
+
+    <path
+        android:fillColor="@android:color/transparent"
+        android:strokeColor="#231F20"
+        android:strokeWidth="1"
+        android:pathData="M 2.818 10.521 H 100.681 V 109.478 H 2.818 V 10.521 Z" />
+    <path
+        android:strokeColor="#231F20"
+        android:strokeWidth="1"
+        android:strokeMiterLimit="10"
+        android:pathData="M 0.75 8.453 H 102.749 V 111.547 H 0.75 V 8.453 Z" />
+    <path
+        android:strokeColor="#404040"
+        android:strokeWidth="1"
+        android:strokeMiterLimit="10"
+        android:pathData="M 0.75 8.453 H 102.749 V 111.547 H 0.75 V 8.453 Z" />
+    <path
+        android:strokeColor="@color/colorAccent"
+        android:strokeWidth="4.136"
+        android:pathData="M 27.219 26.831 L 27.219 98.473" />
+    <path
+        android:strokeColor="@color/colorAccent"
+        android:strokeWidth="4.136"
+        android:pathData="M 53.436 26.831 L 53.436 98.473" />
+    <path
+        android:strokeColor="@color/colorAccent"
+        android:strokeWidth="4.136"
+        android:pathData="M 79.658 26.831 L 79.658 98.473" />
+    <path
+        android:fillColor="#231F20"
+        android:strokeColor="@color/colorAccent"
+        android:strokeWidth="1"
+        android:strokeMiterLimit="10"
+        android:pathData="M 19.722 36.602 H 32.647 V 49.709 H 19.722 V 36.602 Z" />
+    <path
+        android:strokeColor="@color/colorAccent"
+        android:strokeWidth="4.136"
+        android:pathData="M 19.722 36.602 H 32.647 V 49.709 H 19.722 V 36.602 Z" />
+    <path
+        android:fillColor="#231F20"
+        android:strokeColor="@color/colorAccent"
+        android:strokeWidth="1"
+        android:strokeMiterLimit="10"
+        android:pathData="M 45.944 69.003 H 58.869 V 82.11 H 45.944 V 69.003 Z" />
+    <path
+        android:strokeColor="@color/colorAccent"
+        android:strokeWidth="4.136"
+        android:pathData="M 46.974 69.003 H 59.899 V 82.11 H 46.974 V 69.003 Z" />
+    <path
+        android:fillColor="#231F20"
+        android:strokeColor="@color/colorAccent"
+        android:strokeWidth="1"
+        android:strokeMiterLimit="10"
+        android:pathData="M 72.162 36.602 H 85.087 V 49.709 H 72.162 V 36.602 Z" />
+    <path
+        android:strokeColor="@color/colorAccent"
+        android:strokeWidth="4.136"
+        android:pathData="M 73.195 36.602 H 86.12 V 49.709 H 73.195 V 36.602 Z" />
+</vector>

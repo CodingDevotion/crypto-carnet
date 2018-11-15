@@ -1,0 +1,4 @@
+<vector android:height="@dimen/square_btn_icon_size" android:viewportHeight="619.5"
+    android:viewportWidth="612.0" android:width="@dimen/square_btn_icon_size" xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/colorbuttonAccent" android:pathData="M497.8,396.5c-35.4,0 -66.7,16.9 -87.1,42.7l-189.4,-96.9c2.5,-9.2 4.3,-18.8 4.3,-28.9c0,-10.9 -2.1,-21.3 -5.1,-31.3l188.6,-96.4c20.3,27 52.4,44.7 88.8,44.7c61.7,0 111.6,-49.9 111.6,-111.5C609.4,57.4 559.5,7.5 497.9,7.5c-61.5,0 -111.5,49.9 -111.5,111.5c0,10.1 1.8,19.7 4.3,28.9l-189.4,96.9c-20.4,-25.9 -51.8,-42.8 -87.2,-42.8c-61.6,0 -111.5,49.9 -111.5,111.5s49.9,111.5 111.5,111.5c36.5,0 68.5,-17.7 88.9,-44.8l188.5,96.4c-3,10 -5.1,20.4 -5.1,31.4c0,61.6 49.9,111.5 111.5,111.5c61.7,0 111.6,-49.9 111.6,-111.5C609.4,446.4 559.5,396.5 497.8,396.5z"/>
+</vector>

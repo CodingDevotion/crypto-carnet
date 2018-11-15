@@ -1,0 +1,69 @@
+<PreferenceScreen xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:enabled="true"
+        android:title="Display Settings">
+
+       <!-- <ListPreference
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:defaultValue="-1"
+            android:entries="@array/currency_list"
+            android:entryValues="@array/currency_list"
+            android:key="choose_display_currency"
+            android:negativeButtonText="@null"
+            android:positiveButtonText="@null"
+            android:summary="choose to displayed price in a different currency"
+            android:title="Choose Displayed currency" />-->
+        <!--<ListPreference
+            android:defaultValue="0"
+            android:entries="@array/languages"
+            android:entryValues="@array/languages_values"
+            android:key="languages"
+            android:negativeButtonText="@null"
+            android:positiveButtonText="@null"
+            android:summary="choose language"
+            android:title="Languages" />-->
+
+        <android.support.v7.preference.SwitchPreferenceCompat
+            android:defaultValue="true"
+            android:key="colorSettings"
+            android:summaryOff="Black and White"
+            android:summaryOn="With Colors"
+            android:title="Color settings" />
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Users Settings">
+
+        <EditTextPreference
+            android:capitalize="words"
+            android:defaultValue="**"
+            android:inputType="textCapWords"
+            android:key="display_name"
+            android:maxLines="1"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:summary="Enter your Name"
+            android:title="Display Name" />
+        <!--
+        <EditTextPreference
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:defaultValue="enter your Password"
+            android:key="change_password"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:summary="change your password"
+            android:title="Change Password" /> -->
+
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Data Settings">
+        <Preference
+            android:key="clear_data"
+            android:summary="Remove all adresses"
+            android:title="Clear Data"></Preference>
+    </PreferenceCategory>
+
+</PreferenceScreen>
