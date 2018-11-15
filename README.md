@@ -3,25 +3,19 @@ Android app that shows the price of top cryptocurrencies, and shows the adresses
 
 # Overview
 
-![crypto-carnet_1.5](/images_for_github/crypto-carnet_1.5.png)
-Cryptocurrency price listing
-
-![crypto-carnet_1.5](/images_for_github/crypto-carnet_2.png)
-Add cryptocurrency addresses in the cryptocurrency selected
-
-![crypto-carnet_1.5](/images_for_github/crypto-carnet_3.png)
-
-![crypto-carnet_1.5](/images_for_github/crypto-carnet_4.png)
-
-You can enter your adress manually, by scanning a QR code or by pasting from your clipboard
-
-![crypto-carnet_1.5](/images_for_github/crypto-carnet_5.png)
-
-You can share your addresses with, copy them in your clipboard
-
-![crypto-carnet_1.5](/images_for_github/crypto-carnet_6.png)
-
-You can also generate a QR code for other people, so they can get your addresses easily to make a transaction.
+<div align="center">
+    <img src='/images_for_github/crypto-carnet_1.5.png' width='300px'/><br>
+    <p>Cryptocurrency price listing.</p>
+    <img src='/images_for_github/crypto-carnet_2.png' width='300px'/><br>
+    <p>Add cryptocurrency addresses in the cryptocurrency selected.</p>
+    <img src='/images_for_github/crypto-carnet_3.png' width='300px'/><br>
+    <p>You can enter your addresses manually, by scanning a QR code or by pasting from your clipboard.</p>
+    <img src='/images_for_github/crypto-carnet_4.png' width='300px'/><br>
+    <img src='/images_for_github/crypto-carnet_5.png' width='300px'/><br>
+    <p>You can share your addresses with, copy them in your clipboard.</p>
+    <img src='/images_for_github/crypto-carnet_6.png' width='300px'/><br>
+    <p>You can also generate a QR code for other people, so they can get your addresses easily to make a transaction.</p>
+</div>
 
 # Fixes to do
 Some part of the code will be fixe in few days.
